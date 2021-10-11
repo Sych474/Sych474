@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Sych474/Sych474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> Hi, my name is Svyatoslav. I am a backend developer, team lead, and teacher of several programming courses at BMSTU. :upside_down_face:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+## Skills list:
+
+### Skills
+- Software design
+- Software architecture
+- Staff/student training 👨‍🏫
+- Object Oriented Programming (OOP)
+- API design (REST)
+- Software development methodologies (SCRUM, Kanban, TDD)
+
+### Languages:
+- C# (.NET 5, ASP.NET, EF, XUnit etc.)
+- C/C++ 
+- Python
+- JS (not realy good in it `¯\_(ツ)_/¯`) 
+
+### Tools: 
+- git (git flow, github flow) 
+- bash
+- CI/CD (Gitlab CI, Travis CI) 
+- docker :whale:
+- docker compose and docker swarm :whale:
+- kubernetes (not realy good now, but I am working on it)
+- Swagger (openapi)
+-  
+
+### Databases: 
+- PostgreSQL
+- MongoDB
+- ClickHouse
+
+### Queues 
+- RabbitMQ
+
