@@ -1,4 +1,4 @@
-## Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello!
 
 
 > Hi, my name is Svyatoslav. I am a backend developer, team lead, and teacher of several programming courses at BMSTU. :upside_down_face:
@@ -16,7 +16,7 @@
 - Software development methodologies (SCRUM, Kanban, TDD)
 
 ### Languages:
-- C# (.NET 5, ASP.NET, EF, XUnit etc.)
+- C# (.NET, ASP.NET, EF, XUnit etc.)
 - C/C++ 
 - Python
 - JS (not realy good in it `¯\_(ツ)_/¯`) 
@@ -29,13 +29,14 @@
 - docker compose and docker swarm :whale:
 - kubernetes (not realy good now, but I am working on it)
 - Swagger (openapi)
--  
+- prometheus
 
 ### Databases: 
 - PostgreSQL
 - MongoDB
 - ClickHouse
+- Cassandra 
 
 ### Queues 
 - RabbitMQ
-
+- Kafka
