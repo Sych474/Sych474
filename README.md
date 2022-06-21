@@ -21,6 +21,8 @@
 - Python
 - JS (not realy good in it `¯\_(ツ)_/¯`) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sych474)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tools: 
 - git (git flow, github flow) 
 - bash
